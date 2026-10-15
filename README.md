@@ -1,5 +1,8 @@
 # PLVS ULTRA Graphs
 
+<img width="847" height="401" alt="image" src="https://github.com/user-attachments/assets/2b2463c4-a566-412b-93e3-cb953d2dd38f" />
+
+
 Excel-Add-in für KI-gestützte Datenanalyse und bearbeitbare Diagramme.
 
 ## Installation aus dem Installer
