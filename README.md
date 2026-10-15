@@ -2,8 +2,11 @@
 
 <img width="847" height="401" alt="image" src="https://github.com/user-attachments/assets/2b2463c4-a566-412b-93e3-cb953d2dd38f" />
 
+Excel eigenes Tool:
 
-Excel-Add-in für KI-gestützte Datenanalyse und bearbeitbare Diagramme.
+<img width="1827" height="733" alt="image" src="https://github.com/user-attachments/assets/7881eb52-49a4-4e1f-8080-a3a5089d9184" />
+
+Excel-Add-in für KI-gestützte Datenanalyse und bearbeitbare Diagramme:
 
 ## Installation aus dem Installer
 
